@@ -1,0 +1,134 @@
+2020-01-21 23:43:33,510 INFO c.p.d.PlayerAppApplication [restartedMain] Starting PlayerAppApplication on Kirananita-PC with PID 632 (started by Kirananita in D:\New folder\PlayerApp)
+2020-01-21 23:43:33,521 DEBUG c.p.d.PlayerAppApplication [restartedMain] Running with Spring Boot v2.2.3.RELEASE, Spring v5.2.3.RELEASE
+2020-01-21 23:43:33,522 INFO c.p.d.PlayerAppApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-01-21 23:43:34,916 INFO c.p.d.PlayerAppApplication [restartedMain] Started PlayerAppApplication in 1.503 seconds (JVM running for 142.329)
+2020-01-21 23:46:09,405 INFO c.p.d.PlayerAppApplication [restartedMain] Starting PlayerAppApplication on Kirananita-PC with PID 5104 (started by Kirananita in D:\New folder\PlayerApp)
+2020-01-21 23:46:09,421 DEBUG c.p.d.PlayerAppApplication [restartedMain] Running with Spring Boot v2.2.3.RELEASE, Spring v5.2.3.RELEASE
+2020-01-21 23:46:09,423 INFO c.p.d.PlayerAppApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-01-21 23:46:15,730 INFO c.p.d.PlayerAppApplication [restartedMain] Started PlayerAppApplication in 6.944 seconds (JVM running for 8.666)
+2020-01-21 23:47:19,611 INFO c.p.d.PlayerAppApplication [restartedMain] Starting PlayerAppApplication on Kirananita-PC with PID 5104 (started by Kirananita in D:\New folder\PlayerApp)
+2020-01-21 23:47:19,612 DEBUG c.p.d.PlayerAppApplication [restartedMain] Running with Spring Boot v2.2.3.RELEASE, Spring v5.2.3.RELEASE
+2020-01-21 23:47:19,612 INFO c.p.d.PlayerAppApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-01-21 23:47:20,991 INFO c.p.d.PlayerAppApplication [restartedMain] Started PlayerAppApplication in 1.475 seconds (JVM running for 73.928)
+2020-01-21 23:49:49,735 INFO c.p.d.PlayerAppApplication [restartedMain] Starting PlayerAppApplication on Kirananita-PC with PID 5104 (started by Kirananita in D:\New folder\PlayerApp)
+2020-01-21 23:49:49,736 DEBUG c.p.d.PlayerAppApplication [restartedMain] Running with Spring Boot v2.2.3.RELEASE, Spring v5.2.3.RELEASE
+2020-01-21 23:49:49,736 INFO c.p.d.PlayerAppApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-01-21 23:49:51,068 INFO c.p.d.PlayerAppApplication [restartedMain] Started PlayerAppApplication in 1.442 seconds (JVM running for 224.002)
+2020-01-21 23:51:16,276 INFO c.p.d.PlayerAppApplication [restartedMain] Starting PlayerAppApplication on Kirananita-PC with PID 5104 (started by Kirananita in D:\New folder\PlayerApp)
+2020-01-21 23:51:16,277 DEBUG c.p.d.PlayerAppApplication [restartedMain] Running with Spring Boot v2.2.3.RELEASE, Spring v5.2.3.RELEASE
+2020-01-21 23:51:16,277 INFO c.p.d.PlayerAppApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-01-21 23:51:17,418 INFO c.p.d.PlayerAppApplication [restartedMain] Started PlayerAppApplication in 1.232 seconds (JVM running for 310.352)
+2020-01-21 23:52:27,592 INFO c.p.d.PlayerAppApplication [restartedMain] Starting PlayerAppApplication on Kirananita-PC with PID 5104 (started by Kirananita in D:\New folder\PlayerApp)
+2020-01-21 23:52:27,592 DEBUG c.p.d.PlayerAppApplication [restartedMain] Running with Spring Boot v2.2.3.RELEASE, Spring v5.2.3.RELEASE
+2020-01-21 23:52:27,593 INFO c.p.d.PlayerAppApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-01-21 23:52:28,740 INFO c.p.d.PlayerAppApplication [restartedMain] Started PlayerAppApplication in 1.228 seconds (JVM running for 381.673)
+2020-01-21 23:52:40,959 DEBUG c.p.d.r.PlayerDetailsController [http-nio-8080-exec-1] PlayerDetailsController :: getPlayerInfo:: value of ID : 
+2020-01-21 23:54:00,106 INFO c.p.d.PlayerAppApplication [restartedMain] Starting PlayerAppApplication on Kirananita-PC with PID 5104 (started by Kirananita in D:\New folder\PlayerApp)
+2020-01-21 23:54:00,107 DEBUG c.p.d.PlayerAppApplication [restartedMain] Running with Spring Boot v2.2.3.RELEASE, Spring v5.2.3.RELEASE
+2020-01-21 23:54:00,107 INFO c.p.d.PlayerAppApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-01-21 23:54:01,264 INFO c.p.d.PlayerAppApplication [restartedMain] Started PlayerAppApplication in 1.243 seconds (JVM running for 474.197)
+2020-01-21 23:54:13,398 DEBUG c.p.d.r.PlayerDetailsController [http-nio-8080-exec-1] PlayerDetailsController :: getPlayerInfo:: value of ID : 
+2020-01-21 23:54:36,293 INFO c.p.d.PlayerAppApplication [restartedMain] Starting PlayerAppApplication on Kirananita-PC with PID 5104 (started by Kirananita in D:\New folder\PlayerApp)
+2020-01-21 23:54:36,293 DEBUG c.p.d.PlayerAppApplication [restartedMain] Running with Spring Boot v2.2.3.RELEASE, Spring v5.2.3.RELEASE
+2020-01-21 23:54:36,294 INFO c.p.d.PlayerAppApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-01-21 23:54:37,530 INFO c.p.d.PlayerAppApplication [restartedMain] Started PlayerAppApplication in 1.322 seconds (JVM running for 510.462)
+2020-01-21 23:54:42,328 DEBUG c.p.d.r.PlayerDetailsController [http-nio-8080-exec-1] PlayerDetailsController :: getPlayerInfo:: value of ID : 4
+2020-01-21 23:56:05,047 DEBUG c.p.d.r.PlayerDetailsController [http-nio-8080-exec-4] PlayerDetailsController :: getPlayerInfo:: value of ID : 4
+2020-01-22 00:00:15,687 INFO c.p.d.PlayerAppApplication [restartedMain] Starting PlayerAppApplication on Kirananita-PC with PID 5104 (started by Kirananita in D:\New folder\PlayerApp)
+2020-01-22 00:00:15,688 DEBUG c.p.d.PlayerAppApplication [restartedMain] Running with Spring Boot v2.2.3.RELEASE, Spring v5.2.3.RELEASE
+2020-01-22 00:00:15,688 INFO c.p.d.PlayerAppApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-01-22 00:00:17,140 INFO c.p.d.PlayerAppApplication [restartedMain] Started PlayerAppApplication in 1.537 seconds (JVM running for 850.069)
+2020-01-22 00:01:37,395 INFO c.p.d.PlayerAppApplication [restartedMain] Starting PlayerAppApplication on Kirananita-PC with PID 5104 (started by Kirananita in D:\New folder\PlayerApp)
+2020-01-22 00:01:37,395 DEBUG c.p.d.PlayerAppApplication [restartedMain] Running with Spring Boot v2.2.3.RELEASE, Spring v5.2.3.RELEASE
+2020-01-22 00:01:37,396 INFO c.p.d.PlayerAppApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-01-22 00:01:38,590 INFO c.p.d.PlayerAppApplication [restartedMain] Started PlayerAppApplication in 1.271 seconds (JVM running for 931.517)
+2020-01-22 00:02:03,549 INFO c.p.d.PlayerAppApplication [restartedMain] Starting PlayerAppApplication on Kirananita-PC with PID 5104 (started by Kirananita in D:\New folder\PlayerApp)
+2020-01-22 00:02:03,550 DEBUG c.p.d.PlayerAppApplication [restartedMain] Running with Spring Boot v2.2.3.RELEASE, Spring v5.2.3.RELEASE
+2020-01-22 00:02:03,550 INFO c.p.d.PlayerAppApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-01-22 00:02:04,751 INFO c.p.d.PlayerAppApplication [restartedMain] Started PlayerAppApplication in 1.325 seconds (JVM running for 957.679)
+2020-01-22 00:02:35,663 INFO c.p.d.PlayerAppApplication [restartedMain] Starting PlayerAppApplication on Kirananita-PC with PID 5104 (started by Kirananita in D:\New folder\PlayerApp)
+2020-01-22 00:02:35,664 DEBUG c.p.d.PlayerAppApplication [restartedMain] Running with Spring Boot v2.2.3.RELEASE, Spring v5.2.3.RELEASE
+2020-01-22 00:02:35,664 INFO c.p.d.PlayerAppApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-01-22 00:02:36,805 INFO c.p.d.PlayerAppApplication [restartedMain] Started PlayerAppApplication in 1.231 seconds (JVM running for 989.732)
+2020-01-22 00:04:41,208 INFO c.p.d.PlayerAppApplication [restartedMain] Starting PlayerAppApplication on Kirananita-PC with PID 5104 (started by Kirananita in D:\New folder\PlayerApp)
+2020-01-22 00:04:41,208 DEBUG c.p.d.PlayerAppApplication [restartedMain] Running with Spring Boot v2.2.3.RELEASE, Spring v5.2.3.RELEASE
+2020-01-22 00:04:41,209 INFO c.p.d.PlayerAppApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-01-22 00:04:42,374 INFO c.p.d.PlayerAppApplication [restartedMain] Started PlayerAppApplication in 1.238 seconds (JVM running for 1115.301)
+2020-01-22 00:05:11,274 INFO c.p.d.PlayerAppApplication [restartedMain] Starting PlayerAppApplication on Kirananita-PC with PID 5104 (started by Kirananita in D:\New folder\PlayerApp)
+2020-01-22 00:05:11,275 DEBUG c.p.d.PlayerAppApplication [restartedMain] Running with Spring Boot v2.2.3.RELEASE, Spring v5.2.3.RELEASE
+2020-01-22 00:05:11,275 INFO c.p.d.PlayerAppApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-01-22 00:05:12,315 INFO c.p.d.PlayerAppApplication [restartedMain] Started PlayerAppApplication in 1.11 seconds (JVM running for 1145.241)
+2020-01-22 00:05:46,177 INFO c.p.d.PlayerAppApplication [restartedMain] Starting PlayerAppApplication on Kirananita-PC with PID 5104 (started by Kirananita in D:\New folder\PlayerApp)
+2020-01-22 00:05:46,177 DEBUG c.p.d.PlayerAppApplication [restartedMain] Running with Spring Boot v2.2.3.RELEASE, Spring v5.2.3.RELEASE
+2020-01-22 00:05:46,177 INFO c.p.d.PlayerAppApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-01-22 00:05:47,290 INFO c.p.d.PlayerAppApplication [restartedMain] Started PlayerAppApplication in 1.187 seconds (JVM running for 1180.216)
+2020-01-22 00:06:00,127 INFO c.p.d.PlayerAppApplication [restartedMain] Starting PlayerAppApplication on Kirananita-PC with PID 5104 (started by Kirananita in D:\New folder\PlayerApp)
+2020-01-22 00:06:00,127 DEBUG c.p.d.PlayerAppApplication [restartedMain] Running with Spring Boot v2.2.3.RELEASE, Spring v5.2.3.RELEASE
+2020-01-22 00:06:00,128 INFO c.p.d.PlayerAppApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-01-22 00:06:01,242 INFO c.p.d.PlayerAppApplication [restartedMain] Started PlayerAppApplication in 1.194 seconds (JVM running for 1194.167)
+2020-01-22 00:09:03,796 INFO c.p.d.PlayerAppApplication [restartedMain] Starting PlayerAppApplication on Kirananita-PC with PID 5104 (started by Kirananita in D:\New folder\PlayerApp)
+2020-01-22 00:09:03,796 DEBUG c.p.d.PlayerAppApplication [restartedMain] Running with Spring Boot v2.2.3.RELEASE, Spring v5.2.3.RELEASE
+2020-01-22 00:09:03,796 INFO c.p.d.PlayerAppApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-01-22 00:09:04,963 INFO c.p.d.PlayerAppApplication [restartedMain] Started PlayerAppApplication in 1.251 seconds (JVM running for 1377.887)
+2020-01-22 00:09:48,051 INFO c.p.d.PlayerAppApplication [restartedMain] Starting PlayerAppApplication on Kirananita-PC with PID 5104 (started by Kirananita in D:\New folder\PlayerApp)
+2020-01-22 00:09:48,051 DEBUG c.p.d.PlayerAppApplication [restartedMain] Running with Spring Boot v2.2.3.RELEASE, Spring v5.2.3.RELEASE
+2020-01-22 00:09:48,051 INFO c.p.d.PlayerAppApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-01-22 00:09:49,071 INFO c.p.d.PlayerAppApplication [restartedMain] Started PlayerAppApplication in 1.089 seconds (JVM running for 1421.994)
+2020-01-22 00:12:33,469 INFO c.p.d.PlayerAppApplication [restartedMain] Starting PlayerAppApplication on Kirananita-PC with PID 5104 (started by Kirananita in D:\New folder\PlayerApp)
+2020-01-22 00:12:33,469 DEBUG c.p.d.PlayerAppApplication [restartedMain] Running with Spring Boot v2.2.3.RELEASE, Spring v5.2.3.RELEASE
+2020-01-22 00:12:33,470 INFO c.p.d.PlayerAppApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-01-22 00:12:37,625 INFO c.p.d.PlayerAppApplication [restartedMain] Started PlayerAppApplication in 4.24 seconds (JVM running for 1590.547)
+2020-01-22 00:12:40,362 INFO c.p.d.PlayerAppApplication [restartedMain] Starting PlayerAppApplication on Kirananita-PC with PID 5104 (started by Kirananita in D:\New folder\PlayerApp)
+2020-01-22 00:12:40,362 DEBUG c.p.d.PlayerAppApplication [restartedMain] Running with Spring Boot v2.2.3.RELEASE, Spring v5.2.3.RELEASE
+2020-01-22 00:12:40,363 INFO c.p.d.PlayerAppApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-01-22 00:12:41,934 INFO c.p.d.PlayerAppApplication [restartedMain] Started PlayerAppApplication in 1.651 seconds (JVM running for 1594.856)
+2020-01-22 00:13:29,962 INFO c.p.d.PlayerAppApplication [restartedMain] Starting PlayerAppApplication on Kirananita-PC with PID 5104 (started by Kirananita in D:\New folder\PlayerApp)
+2020-01-22 00:13:29,963 DEBUG c.p.d.PlayerAppApplication [restartedMain] Running with Spring Boot v2.2.3.RELEASE, Spring v5.2.3.RELEASE
+2020-01-22 00:13:29,963 INFO c.p.d.PlayerAppApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-01-22 00:13:31,077 INFO c.p.d.PlayerAppApplication [restartedMain] Started PlayerAppApplication in 1.183 seconds (JVM running for 1643.999)
+2020-01-22 00:16:42,669 INFO c.p.d.PlayerAppApplication [restartedMain] Starting PlayerAppApplication on Kirananita-PC with PID 5104 (started by Kirananita in D:\New folder\PlayerApp)
+2020-01-22 00:16:42,670 DEBUG c.p.d.PlayerAppApplication [restartedMain] Running with Spring Boot v2.2.3.RELEASE, Spring v5.2.3.RELEASE
+2020-01-22 00:16:42,671 INFO c.p.d.PlayerAppApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-01-22 00:16:43,814 INFO c.p.d.PlayerAppApplication [restartedMain] Started PlayerAppApplication in 1.218 seconds (JVM running for 1836.734)
+2020-01-22 00:16:58,719 INFO c.p.d.PlayerAppApplication [restartedMain] Starting PlayerAppApplication on Kirananita-PC with PID 5104 (started by Kirananita in D:\New folder\PlayerApp)
+2020-01-22 00:16:58,719 DEBUG c.p.d.PlayerAppApplication [restartedMain] Running with Spring Boot v2.2.3.RELEASE, Spring v5.2.3.RELEASE
+2020-01-22 00:16:58,720 INFO c.p.d.PlayerAppApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-01-22 00:16:59,886 INFO c.p.d.PlayerAppApplication [restartedMain] Started PlayerAppApplication in 1.239 seconds (JVM running for 1852.806)
+2020-01-22 00:17:22,740 INFO c.p.d.PlayerAppApplication [restartedMain] Starting PlayerAppApplication on Kirananita-PC with PID 5104 (started by Kirananita in D:\New folder\PlayerApp)
+2020-01-22 00:17:22,741 DEBUG c.p.d.PlayerAppApplication [restartedMain] Running with Spring Boot v2.2.3.RELEASE, Spring v5.2.3.RELEASE
+2020-01-22 00:17:22,742 INFO c.p.d.PlayerAppApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-01-22 00:17:23,812 INFO c.p.d.PlayerAppApplication [restartedMain] Started PlayerAppApplication in 1.141 seconds (JVM running for 1876.731)
+2020-01-22 00:17:55,682 INFO c.p.d.PlayerAppApplication [restartedMain] Starting PlayerAppApplication on Kirananita-PC with PID 5104 (started by Kirananita in D:\New folder\PlayerApp)
+2020-01-22 00:17:55,683 DEBUG c.p.d.PlayerAppApplication [restartedMain] Running with Spring Boot v2.2.3.RELEASE, Spring v5.2.3.RELEASE
+2020-01-22 00:17:55,683 INFO c.p.d.PlayerAppApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-01-22 00:17:56,686 INFO c.p.d.PlayerAppApplication [restartedMain] Started PlayerAppApplication in 1.072 seconds (JVM running for 1909.606)
+2020-01-22 00:18:02,475 INFO c.p.d.PlayerAppApplication [restartedMain] Starting PlayerAppApplication on Kirananita-PC with PID 5104 (started by Kirananita in D:\New folder\PlayerApp)
+2020-01-22 00:18:02,475 DEBUG c.p.d.PlayerAppApplication [restartedMain] Running with Spring Boot v2.2.3.RELEASE, Spring v5.2.3.RELEASE
+2020-01-22 00:18:02,476 INFO c.p.d.PlayerAppApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-01-22 00:18:03,479 INFO c.p.d.PlayerAppApplication [restartedMain] Started PlayerAppApplication in 1.077 seconds (JVM running for 1916.398)
+2020-01-22 00:19:11,105 INFO c.p.d.PlayerAppApplication [restartedMain] Starting PlayerAppApplication on Kirananita-PC with PID 5104 (started by Kirananita in D:\New folder\PlayerApp)
+2020-01-22 00:19:11,106 DEBUG c.p.d.PlayerAppApplication [restartedMain] Running with Spring Boot v2.2.3.RELEASE, Spring v5.2.3.RELEASE
+2020-01-22 00:19:11,106 INFO c.p.d.PlayerAppApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-01-22 00:19:12,158 INFO c.p.d.PlayerAppApplication [restartedMain] Started PlayerAppApplication in 1.121 seconds (JVM running for 1985.076)
+2020-01-22 00:20:16,220 INFO c.p.d.PlayerAppApplication [restartedMain] Starting PlayerAppApplication on Kirananita-PC with PID 5104 (started by Kirananita in D:\New folder\PlayerApp)
+2020-01-22 00:20:16,220 DEBUG c.p.d.PlayerAppApplication [restartedMain] Running with Spring Boot v2.2.3.RELEASE, Spring v5.2.3.RELEASE
+2020-01-22 00:20:16,221 INFO c.p.d.PlayerAppApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-01-22 00:20:52,494 INFO c.p.d.PlayerAppApplication [restartedMain] Starting PlayerAppApplication on Kirananita-PC with PID 5104 (started by Kirananita in D:\New folder\PlayerApp)
+2020-01-22 00:20:52,495 DEBUG c.p.d.PlayerAppApplication [restartedMain] Running with Spring Boot v2.2.3.RELEASE, Spring v5.2.3.RELEASE
+2020-01-22 00:20:52,496 INFO c.p.d.PlayerAppApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-01-22 00:20:53,511 INFO c.p.d.PlayerAppApplication [restartedMain] Started PlayerAppApplication in 1.11 seconds (JVM running for 2086.428)
+2020-01-22 00:24:55,468 DEBUG c.p.d.r.PlayerDetailsController [http-nio-8080-exec-1] PlayerDetailsController :: getPlayerInfo:: value of ID : 4
+2020-01-22 00:24:55,469 INFO c.p.d.r.PlayerDetailsController [http-nio-8080-exec-1] Entered into PlayerService class getPlayerInfo method and Id is 4
+2020-01-22 00:24:55,633 INFO c.p.d.r.PlayerDetailsController [http-nio-8080-exec-1] PlayerService class getPlayerInfo method in the if block player is present
+2020-01-22 00:27:29,780 DEBUG c.p.d.r.PlayerDetailsController [http-nio-8080-exec-3] PlayerDetailsController :: getPlayerInfo:: value of ID : 1
+2020-01-22 00:27:29,781 INFO c.p.d.r.PlayerDetailsController [http-nio-8080-exec-3] Entered into PlayerService class getPlayerInfo method and Id is 1
+2020-01-22 00:27:29,814 INFO c.p.d.r.PlayerDetailsController [http-nio-8080-exec-3] PlayerService class getPlayerInfo method in the if block player is present
+2020-01-22 00:28:25,465 DEBUG c.p.d.r.PlayerDetailsController [http-nio-8080-exec-5] PlayerDetailsController :: getPlayerInfo:: value of ID : 2
+2020-01-22 00:28:25,466 INFO c.p.d.r.PlayerDetailsController [http-nio-8080-exec-5] Entered into PlayerService class getPlayerInfo method and Id is 2
+2020-01-22 00:28:25,470 INFO c.p.d.r.PlayerDetailsController [http-nio-8080-exec-5] PlayerService class getPlayerInfo method in the if block player is present
+2020-01-22 00:29:42,677 DEBUG c.p.d.r.PlayerDetailsController [http-nio-8080-exec-7] PlayerDetailsController :: getPlayerInfo:: value of ID : 5
+2020-01-22 00:29:42,678 INFO c.p.d.r.PlayerDetailsController [http-nio-8080-exec-7] Entered into PlayerService class getPlayerInfo method and Id is 5
+2020-01-22 00:29:42,683 INFO c.p.d.r.PlayerDetailsController [http-nio-8080-exec-7] PlayerService class getPlayerInfo method in the else block player is not present
+2020-01-22 00:30:43,138 DEBUG c.p.d.r.PlayerDetailsController [http-nio-8080-exec-2] PlayerDetailsController :: getPlayerInfo:: value of ID : 4
+2020-01-22 00:30:43,139 INFO c.p.d.r.PlayerDetailsController [http-nio-8080-exec-2] Entered into PlayerService class getPlayerInfo method and Id is 4
+2020-01-22 00:30:43,145 INFO c.p.d.r.PlayerDetailsController [http-nio-8080-exec-2] PlayerService class getPlayerInfo method in the if block player is present
